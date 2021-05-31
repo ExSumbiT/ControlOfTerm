@@ -13,7 +13,7 @@ def schedule_checker():
         sleep(1)
 
 
-bot = telebot.TeleBot('1356517045:AAHS-z-gd6kAn45hk8erRGj3RP6fU7LAuPE')
+bot = telebot.TeleBot('token')
 
 
 data_dict = {}
